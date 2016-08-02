@@ -1,4 +1,3 @@
-layout_spectrum: 0.9262545509263873
 typography_spectrum: 0.4347345463465899
 color:
   brandStrength: 0.3087285899091512
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.9262545509263873
 name: flowDesign
 title: bringing flow and harmony to your life
+description: design.shouldbe.forever
