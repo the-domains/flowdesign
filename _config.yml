@@ -1,0 +1,14 @@
+layout_spectrum: 0.9262545509263873
+typography_spectrum: 0.4347345463465899
+color:
+  brandStrength: 0.3087285899091512
+  lightness: 0.26584799494594336
+  saturation: 0.15531483059749007
+  rhythmicContrast: 0.20345396362245083
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: flowDesign
